@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arif Adi Nugroho
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in Data Science and Artificial Intelligence
+- 🌱 I’m currently learning to be a Data Scientist
 
 <!---
 arifadinugroho/arifadinugroho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
